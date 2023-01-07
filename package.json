@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/NeoResearch/neo-mesh#readme",
   "devDependencies": {
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "webpack-cli": "^3.1.1"
   },
   "dependencies": {
